@@ -1,30 +1,21 @@
-## Keya Mahtani
+## Keya Mahtani's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# My Favorite Things About CS193:
+- It is fun
+- No big exams
+- No textbooks
 
-### Markdown
+_COURSES I AM TAKING THIS SEMESTER:_
+ 1. CS193
+ 2. CS180
+ 3. CS191
+ 4. MA261
+ 5. ANTH212
+ 6. ENG106
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+[Image](https://www.eschoolnews.com/files/2016/12/computer-science-education-600x400.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
