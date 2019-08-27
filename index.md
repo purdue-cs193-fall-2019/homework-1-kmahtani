@@ -2,9 +2,9 @@
 
 
 # My Favorite Things About CS193:
-- It is fun
 - No big exams
 - No textbooks
+- Fun
 
 _COURSES I AM TAKING THIS SEMESTER:_
  1. CS193
